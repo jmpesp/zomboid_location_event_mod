@@ -30,5 +30,7 @@ The lua mod will call:
       "raw_data": "b''"
     }
 
+Run the test asserts with `lua ./zlem/media/lua/server/events.lua`.
+
 poster.png is https://openclipart.org/image/400px/327849
 
